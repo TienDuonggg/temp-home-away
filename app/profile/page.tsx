@@ -1,3 +1,6 @@
+
+export const dynamic = "force-dynamic";
+
 import FormContainer from '@/components/form/FormContainer';
 import {
   updateProfileAction,

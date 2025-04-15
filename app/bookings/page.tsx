@@ -1,3 +1,6 @@
+export const dynamic = "force-dynamic";
+
+
 import EmptyList from '@/components/home/EmptyList';
 import CountryFlagAndName from '@/components/card/CountryFlagAndName';
 import Link from 'next/link';

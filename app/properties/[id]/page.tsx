@@ -1,3 +1,4 @@
+
 import FavoriteToggleButton from '@/components/card/FavoriteToggleButton';
 import PropertyRating from '@/components/card/PropertyRating';
 import BreadCrumbs from '@/components/properties/BreadCrumbs';
