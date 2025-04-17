@@ -21,6 +21,7 @@ import LoadingTable from '@/components/booking/LoadingTable';
 
 async function BookingsPage() {
   const bookings = await fetchBookings();
+  console.log(bookings.length)
   if (bookings.length === 0) {
     return <EmptyList />;
   }
